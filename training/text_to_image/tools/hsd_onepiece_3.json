@@ -1,0 +1,602 @@
+[
+    {
+        "file_name": "A1712LT9.png",
+        "text": "Based on the name and color codes provided, the item is likely a one-piece dress called \"Aurora Lace Flower Petal Flare Dress\" in English. The dress is likely designed with a lace pattern and features a floral petal flare design. The main colors of the dress are a light pink/lavender (251, 238, 247), a soft pink (239, 164, 196), and a light gray (196, 192, 192) in RGB color. \n\nIn deep learning, the image of this dress could be captioned as \"A light pink and gray floral petal flare dress with a delicate lace pattern, perfect for a romantic day out.\" Alternatively, if the image was being labeled, the label might read \"Aurora Lace Flower Petal Flare Dress in Light Pink/Lavender, Soft Pink, and Light Gray.\"",
+        "additional_feature": "",
+        "ori_text": "オーロラレースの花びらフレアワンピ"
+    },
+    {
+        "file_name": "A1712LT10.png",
+        "text": "Based on the name and color palette you've given me, it sounds like the item is a classic cape and pants outfit. The colors appear to be a mix of light purples, pinks, and grays, which suggests a soft and elegant aesthetic. The cape is likely to be a flowing, draped design, while the pants may be tailored or fitted. Overall, the outfit seems to have a timeless and sophisticated look, with a touch of feminine charm.",
+        "additional_feature": "",
+        "ori_text": "クラシカルケープのパンツコーデ"
+    },
+    {
+        "file_name": "A1712LT11.png",
+        "text": "The item Nakayoshi twin star frill dress is a one-piece dress featuring a frilly design, perfect for those who love feminine styles. The dress comes in a beautiful combination of colors, with shades of light blue, dusty blue, and light grey. The light blue shade dominates the dress, creating a soft and delicate look, while the dusty blue and light grey shades add depth and contrast to the overall design. The dress is perfect for casual outings or more formal occasions, and is sure to make the wearer feel cute and stylish.",
+        "additional_feature": "",
+        "ori_text": "なかよし双子星のフリルワンピ"
+    },
+    {
+        "file_name": "A1803HS12.png",
+        "text": "Based on the name and color information you provided, the item is likely a dress called \"Sparkling White Night Tulle Dress\" with colors of deep blue, bright yellow, and dark teal. The dress is likely made of tulle fabric, which is a lightweight and sheer material often used in formal dresses. The dress is probably sleeveless and has a full skirt that flares out from the waist. The use of bright and bold colors suggests that the dress is meant to be eye-catching and glamorous, perhaps for a formal event or party.",
+        "additional_feature": "",
+        "ori_text": "煌めく白夜のチュールワンピ"
+    },
+    {
+        "file_name": "A1803HS13.png",
+        "text": "The The sun that does not sink is a one-piece item that features a unique design with a combination of colors including shades of pink, gray, and beige. The main color scheme is dominated by a soft, pale pink hue (rgb 251, 233, 244) which is complemented by subtle shades of gray (rgb 154, 139, 145) and beige (rgb 188, 176, 180). The overall effect is one of understated elegance and sophistication, with a hint of playful charm. The design of the suit features a sleek, fitted silhouette with a flared skirt and a dramatic cape-like back that billows out behind the wearer, reminiscent of a sunset on the horizon. The The sun that does not sink is the perfect choice for anyone looking to make a bold, stylish statement with their wardrobe.",
+        "additional_feature": "",
+        "ori_text": "沈まぬ太陽のマントスーツ"
+    },
+    {
+        "file_name": "A1803HS14.png",
+        "text": "Based on the name and color information you provided, I believe the item you're describing is a dress called \"Harp One-Piece Dress that Plays the Arrival of Time Together\". The dress is likely designed with a whimsical or fantasy-inspired theme, given the reference to a harp and the idea of playing the arrival of time. The main colors of the dress are likely a pale yellow, olive green, and tan/beige, which could suggest a nature-inspired or earthy aesthetic. Overall, the dress likely has a playful, imaginative feel to it.",
+        "additional_feature": "",
+        "ori_text": "皆で時の訪れを奏でるハープワンピ"
+    },
+    {
+        "file_name": "A1803HS15.png",
+        "text": "Sure, I can give you a descriptive label for this item based on its colors and name.\n\nLabel: A sparkling tulle dress reminiscent of a polar night. The dress is primarily composed of pale shades of blue and gray, with sparkling accents that catch the light. It's a one-piece dress that exudes a sense of ethereal beauty, perfect for a formal event or a romantic night out.",
+        "additional_feature": "",
+        "ori_text": "煌めく極夜のチュールワンピ"
+    },
+    {
+        "file_name": "A1803HS16.png",
+        "text": "Sure, I can give you a description of this item using deep learning-based image captioning. Based on the item name and RGB values you provided, I'm guessing that the item is a princess-style dress with lots of frills in shades of light blue, dark gray, and light gray. Here's a possible caption that describes the item:\n\n\"This princess-style one-piece dress is overflowing with love and frills. The light blue color scheme, accented with shades of dark and light gray, creates a regal and elegant look. The dress features a voluminous skirt and a fitted bodice, with plenty of frills and ruffles to add to the princess vibe. Overall, this dress is the perfect choice for anyone who wants to feel like royalty.\"",
+        "additional_feature": "",
+        "ori_text": "大好きで溢れるたっぷりフリルのプリンセスワンピ"
+    },
+    {
+        "file_name": "A1803HS17.png",
+        "text": "Based on the item name and color information you've provided, it sounds like this item is a one-piece outfit with a design meant for a smart, sophisticated tea party in the afternoon. The main colors of the outfit are a soft pinkish-purple, a muted grayish-purple, and a light lavender. The colors give off a calming and elegant vibe, perfect for a relaxed tea party with friends.",
+        "additional_feature": "",
+        "ori_text": "スマートな午後のお茶会コーデ"
+    },
+    {
+        "file_name": "A1806NC55.png",
+        "text": "The item Forest flower blooming ribbon dress is a one-piece dress with a beautiful floral pattern. The dress features a ribbon accent at the waist, adding a cute and feminine touch to the overall design. The color scheme of the dress includes warm shades of yellow and orange, as well as a soft beige color, creating a cozy and cheerful atmosphere. The floral pattern is intricately detailed, with delicate petals and leaves in shades of pink, red, and green. This dress would be perfect for a sunny day out or a casual date, adding a touch of sweetness and charm to any outfit.",
+        "additional_feature": "",
+        "ori_text": "森の花咲くリボンワンピ"
+    },
+    {
+        "file_name": "A1808NC203.png",
+        "text": "Based on the name \"Night forest walk outfit\" (which translates to \"Night Forest Walk Coord\") and the color scheme of (242, 228, 200), (175, 87, 87), and (228, 124, 108), I would describe this item as follows:\n\nThis one-piece outfit features a warm and cozy color scheme, with a soft cream base color (242, 228, 200) that evokes the feeling of a peaceful night walk in the forest. The darker shades of red-brown (175, 87, 87) and dusty rose (228, 124, 108) add a touch of earthiness and warmth to the outfit, making it perfect for a chilly autumn evening. The overall effect is one of comfort and relaxation, inviting you to take a leisurely stroll through the forest under the starry sky.",
+        "additional_feature": "",
+        "ori_text": "夜の森のお散歩コーデ"
+    },
+    {
+        "file_name": "A1808NC208.png",
+        "text": "The item you described is a one-piece dress, featuring the elegant bloom of a deep red camellia flower in contrast against a dignified Alice blue background. The dress exudes a regal charm with its intricate details and design, and is further accentuated by the complementary colors of soft lavender and warm beige. The dress is perfect for formal occasions, and is sure to turn heads with its exquisite beauty and grace.",
+        "additional_feature": "",
+        "ori_text": "真紅カメリアの咲く気高きアリスワンピ"
+    },
+    {
+        "file_name": "A1808NC212.png",
+        "text": "This item is a one-piece garment with a delicate and charming design. It is named \"Pure Camellia Alice Dress\" and features a color scheme of soft pink, deep pink, and light gray. The main body of the dress is a pale pink color with a camellia flower pattern, while the waist and frills are a deeper pink shade. The dress is accented with a light gray lace collar and sleeves, which add a touch of elegance to the overall design. This dress would be perfect for a romantic or formal occasion, and is sure to make the wearer feel feminine and stylish.",
+        "additional_feature": "",
+        "ori_text": "ピュアカメリアの咲く可憐なアリスワンピ"
+    },
+    {
+        "file_name": "A1808NC214.png",
+        "text": "Based on the name of the item and the colors you provided, it sounds like the item is a school uniform with a fashionable twist. The primary colors of the uniform are a dark blue (52, 100, 175), a light gray (218, 229, 232), and a light blue (139, 196, 233). The uniform likely has a unique design or embellishments that make it stand out from a traditional school uniform. In a deep learning image captioning model, the item could be labeled as a \"stylish school uniform with blue and gray tones.\"",
+        "additional_feature": "",
+        "ori_text": "とびきりオシャレのアレンジ制服"
+    },
+    {
+        "file_name": "A1808NC216.png",
+        "text": "The item \"Cool Natazumi Senior\" is a one-piece outfit with a cool and sophisticated vibe. The outfit features a combination of warm beige tones (rgb 249, 231, 163) and deep brown shades (rgb 120, 65, 50), accented with a pop of bright green (rgb 142, 181, 78) to add a touch of freshness and vitality. The design of the outfit is sleek and stylish, with clean lines and a flattering silhouette that accentuates the wearer's figure. The overall effect is one of understated elegance and effortless cool, making this outfit perfect for any occasion where you want to make a statement without being too flashy.",
+        "additional_feature": "",
+        "ori_text": "クールなたたずまいの先輩"
+    },
+    {
+        "file_name": "A1808NC218.png",
+        "text": "Sure, I can do that using my deep learning capabilities. Based on the name and colors you provided, I would describe this item as a one-piece dress featuring a strawberry-patterned parasol and a princess design with sparkling stars falling down. The dress is primarily a dark gray color with accents of light yellow and medium gray.",
+        "additional_feature": "",
+        "ori_text": "いちごパラソルときらきら星の降るプリンセスワンピ"
+    },
+    {
+        "file_name": "A1808NC221.png",
+        "text": "Based on the item name and color information you provided, I believe the item is a one-piece dress with a design called \"Crescent Blossom.\" The dress likely has a light, refreshing color scheme with shades of blue-green and gray. The design may feature floral or nature-inspired elements, given the name \"Blossom.\" The dress is likely made of soft, flowing fabric that drapes gracefully and is comfortable to wear. The overall style of the dress is likely feminine and elegant, with a touch of whimsy.",
+        "additional_feature": "",
+        "ori_text": "クレッセントブロッサムに佇むワンピ"
+    },
+    {
+        "file_name": "A1808NC512.png",
+        "text": "Based on the information you've provided, the item appears to be a one-piece dress featuring Sanrio character Cinnamoroll in a Lolita style. The main colors of the dress are a soft pinkish-red, light green, and a muted brown. The overall tone of the dress is sweet and cute, with a vintage-inspired Lolita aesthetic.",
+        "additional_feature": "",
+        "ori_text": "大好きシナモロールロリータワンピ"
+    },
+    {
+        "file_name": "A1808NC401.png",
+        "text": "Based on the item name \"Sky -blue cinnamolol pajamas\" and the color codes provided, I would describe this item as a one-piece pajama featuring the Sanrio character Cinnamoroll. The main colors of the pajama are a light blue (#F9E5D9), a soft pink (#F4607F), and a darker pink (#F8797F), which give the pajama a cute and playful look. The pajama likely has a loose and comfortable fit, with long sleeves and pants to keep the wearer warm and cozy. Overall, this pajama seems like a fun and comfortable choice for fans of Cinnamoroll and Sanrio characters.",
+        "additional_feature": "",
+        "ori_text": "空色シナモロールパジャマ"
+    },
+    {
+        "file_name": "A1809NC304.png",
+        "text": "Based on the item name and color information you provided, it sounds like the item is a \"Covert Cinnamoroll Set-Up\" - a one-piece clothing item featuring the popular Sanrio character Cinnamoroll. The main colors of the item are a soft pinkish-purple, a bright pink, and a deep blue-gray. The colors combine to create a playful yet sophisticated look, with a touch of whimsy thanks to the Cinnamoroll character design. It's likely that this item would be popular among fans of Sanrio characters who are looking for a cute and stylish outfit that still retains a sense of sophistication and class.",
+        "additional_feature": "",
+        "ori_text": "こっそりシナモロールセットアップ"
+    },
+    {
+        "file_name": "A1809NC312.png",
+        "text": "Based on the name you provided, the item appears to be a Lovely Frill Sailor Hello Kitty School Uniform. The uniform is likely a one-piece dress with a sailor-style collar and frilly trim. The main colors of the dress are a light purple-pink (RGB values (235, 198, 236)), a bright pink (RGB values (241, 103, 180)), and a deep purple-blue (RGB values (79, 74, 123)). In a deep learning model, the image could be labeled with a caption like \"Hello Kitty school uniform with frilly sailor collar and pink and purple color scheme.\"",
+        "additional_feature": "",
+        "ori_text": "ラブリーフリルセーラーのハローキティ制服"
+    },
+    {
+        "file_name": "A1809NC314.png",
+        "text": "Based on the name and color information provided, I would describe this item as a \"Soothing Long Cardigan My Melody Uniform\". The cardigan is likely a soft, cozy material in shades of lavender, mint green, and pink. It may feature a design or emblem related to the My Melody character, such as a bow or logo patch. This item would be perfect for fans of the Sanrio character who want to stay cozy and stylish.",
+        "additional_feature": "",
+        "ori_text": "おっとりロングカーデのマイメロディ制服"
+    },
+    {
+        "file_name": "A1809NC316.png",
+        "text": "Based on the name, \"A little naughty cinnamolol uniform\", which translates to \"A slightly mischievous Cinnamoroll uniform\", and the color scheme of light yellow, pink, and light blue, this item appears to be a one-piece uniform inspired by the Sanrio character Cinnamoroll. The design likely features playful elements to match the mischievous nature of the character, such as a whimsical pattern or cute details. Overall, this item seems like a fun and playful addition to any Sanrio fan's wardrobe.",
+        "additional_feature": "",
+        "ori_text": "ちょっぴりやんちゃなシナモロール制服"
+    },
+    {
+        "file_name": "A1809NC319.png",
+        "text": "The item \"Pompompurin uniform of a leisurely shop\" is a cute and cozy one-piece outfit featuring everyone's favorite Sanrio character, Pom Pom Purin. The main colors of the outfit are a soft, pastel pink (rgb: 251, 196, 240), a muted, dusty purple (rgb: 160, 116, 151), and a warm, rosy mauve (rgb: 181, 150, 174). The outfit has a relaxed, easy-going vibe that perfectly captures the essence of Pom Pom Purin's laid-back personality. It's the perfect outfit for a lazy day at home or a casual hangout with friends.",
+        "additional_feature": "",
+        "ori_text": "のんびり屋さんのポムポムプリン制服"
+    },
+    {
+        "file_name": "A1810NC103.png",
+        "text": "Based on the name and color values you've provided, I believe the item you're referring to is a one-piece dress with plenty of frills in a refreshing blue color. The dress may have a light, airy feel to it, and the frills could add to its playful and feminine look. The blue color may be reminiscent of clear skies or the ocean, and could be complemented by accents of pink and yellow. Overall, the dress may have a cheerful and youthful vibe that would be perfect for a summer day out.",
+        "additional_feature": "",
+        "ori_text": "たっぷりフリルの爽やかブルーワンピ"
+    },
+    {
+        "file_name": "A1810NC113.png",
+        "text": "The item you described is called \"Lady Sailor Frill One-Piece\" in English. It appears to be a single piece dress with frills, and comes in three main colors: a dark purple-grey (104, 91, 109), a bright pink (249, 135, 202), and a medium pink-purple (196, 136, 188). This dress would be perfect for any occasion where you want to look both elegant and fun, as the frills add a playful touch while the colors give it a sophisticated look.",
+        "additional_feature": "",
+        "ori_text": "レディなセーラーフリルワンピ"
+    },
+    {
+        "file_name": "A1810NC114.png",
+        "text": "Based on the information you've provided, the item \"Seven -colored dwarf dress\" appears to be a one-piece dress with a colorful design. The dress features a range of colors, including light blue (rgb value: 234, 242, 251), gray (rgb value: 166, 174, 180), and light gray (rgb value: 188, 196, 206). The dress is likely to have a playful, whimsical vibe, given its name and colorful design. In deep learning, this item could be labeled as a \"colorful one-piece dress with playful design and light blue, gray, and light gray color scheme.\"",
+        "additional_feature": "",
+        "ori_text": "七色の小人ワンピ"
+    },
+    {
+        "file_name": "A1810NC115.png",
+        "text": "This item is a frilly one-piece dress with a ribbon, featuring the lovable Sanrio character, Pom Pom Purin. The dress is primarily made up of soft, pastel shades of lavender, blue, and gray, with delicate frills and a cute ribbon accent. The design is simple yet charming, and is sure to appeal to fans of Pom Pom Purin and fans of cute, kawaii fashion alike.",
+        "additional_feature": "",
+        "ori_text": "ポムポムプリンのリボン付き♡フリルワンピ"
+    },
+    {
+        "file_name": "A1810NC416.png",
+        "text": "Based on the information you provided, the item is a one-piece outfit called \"Park Mascot's Big Pom Pom Purin,\" featuring the Sanrio character Pom Pom Purin. The main colors of the outfit are a light pinkish-purple, a light blueish-green, and a light yellowish-beige. The outfit appears to have a fluffy texture, as indicated by the use of the word \"pom pom\" in the name. The outfit is likely meant to be a playful and fun addition to a Sanrio fan's wardrobe.",
+        "additional_feature": "",
+        "ori_text": "パークマスコットの大きなポムポムプリン"
+    },
+    {
+        "file_name": "A1810NC121.png",
+        "text": "Based on the name and colors you provided, I believe the item you are describing is a costume for a character named \"Prince\" in the Pom Pom Purin Park game. The costume features shades of purple, yellow, and white, with the main colors being a muted purple, light lavender, and pale yellow. The costume appears to be a one-piece outfit, possibly with a cape or flowing fabric around the shoulders. Overall, the costume has a regal and princely feel, fitting for a character named \"Prince\".",
+        "additional_feature": "",
+        "ori_text": "ポムポムプリンパークの王子さまコスチューム"
+    },
+    {
+        "file_name": "A1810NC816.png",
+        "text": "Based on the information you've provided, it seems that the item you're describing is a one-piece dress from the Pom Pom Purin Park collection. The dress is likely to have a fluffy, comfortable texture, as suggested by the use of the word \"ふんわり\" (pronounced \"funwari\" in Japanese) in the item name. The dress may also feature a cute design related to Pom Pom Purin, a popular Sanrio character. The main colors of the dress are a deep blue (RGB 66, 82, 153), a light brown (RGB 219, 179, 130), and a light blue (RGB 104, 174, 218), which could create a soothing, calming effect. Overall, the dress seems like a cozy, playful addition to any wardrobe.",
+        "additional_feature": "",
+        "ori_text": "ポムポムプリンパークのふんわりワンピ"
+    },
+    {
+        "file_name": "A1811NC104.png",
+        "text": "Based on the name and colors provided, the item appears to be a pastel Easter Lolita dress. The dress is likely a one-piece design, with soft pastel colors of light blue, pink, and yellow. The dress may feature frills, lace, or other decorative elements that are common in the Lolita fashion style. The dress is likely designed to be cute, feminine, and perfect for wearing to Easter-themed events or for dressing up in a playful way.",
+        "additional_feature": "",
+        "ori_text": "パステルイースターロリータワンピ"
+    },
+    {
+        "file_name": "A1811NC109.png",
+        "text": "Based on the item name and color information you provided, the Pastelui star rololita Kimono appears to be a one-piece dress with a Lolita-style design. It likely features pastel shades of pink, purple, and blue, with the main hue being a bright pinkish-purple (rgb value of 247, 111, 196). The dress may also have some white and light lavender accents (rgb values of 230, 217, 246 and 163, 162, 218, respectively). Overall, the dress seems to have a cute, playful aesthetic that would be fitting for spring or Easter-themed events.",
+        "additional_feature": "",
+        "ori_text": "パステルイースターロリータキモノ"
+    },
+    {
+        "file_name": "A1811NC320.png",
+        "text": "Based on the item name \"Blue bird girl who does not know freedom yet,\" which translates to \"The Blue Bird Girl Who Doesn't Know Freedom Yet,\" this item is likely a dress or jumpsuit in shades of blue and green, with accents of pink or light purple. The colors represented by the RGB values you provided suggest a combination of deep red, pale pink, and olive green. The garment may feature a bird or bird-like element, perhaps in the form of a print or embroidery. The name of the item implies a sense of innocence or naivete, so the style of the garment may be youthful or whimsical.",
+        "additional_feature": "",
+        "ori_text": "まだ自由を知らない青い鳥の少女"
+    },
+    {
+        "file_name": "A1811NC604.png",
+        "text": "Based on the name \"Freshly washed favorite dress\" and the colors provided, which are a combination of light pink, lavender, and gray, this item could be a cute and cozy one-piece dress that is perfect for lounging around the house or running errands. The light pink color gives it a soft and feminine feel, while the lavender adds a touch of elegance. The gray color could indicate that the dress has a more casual and comfortable vibe, perfect for wearing on a lazy day. Overall, this dress seems like a comfortable and stylish addition to any wardrobe.",
+        "additional_feature": "",
+        "ori_text": "洗いたてのお気に入りワンピ"
+    },
+    {
+        "file_name": "A1811NC610.png",
+        "text": "The item \"Fresh freshly washed ribbon dress\" is a one-piece dress that exudes a soft and fluffy aura. Its main colors are a combination of pastel purples and grays, featuring shades of (226, 196, 231), (156, 138, 160), and (166, 158, 172) in RGB color. The dress looks clean and fresh, as if it has just been washed and is ready to be worn. The dress features a ribbon accent that adds a touch of charm and femininity to the overall look. This dress would be perfect for a casual day out or a cozy night in.",
+        "additional_feature": "",
+        "ori_text": "洗いたてのふんわりリボンワンピ"
+    },
+    {
+        "file_name": "A1812NC703.png",
+        "text": "Based on the item name and color information provided, I would caption this item as \"Enjoying Casual Travel in a Soft and Cozy One-Piece Dress\" with shades of lavender, peach, and seafoam green. The dress appears to have a relaxed fit and comfortable fabric, perfect for exploring new places while still looking stylish.",
+        "additional_feature": "",
+        "ori_text": "旅先を楽しむカジュアルワンピ"
+    },
+    {
+        "file_name": "A1812NC709.png",
+        "text": "Based on the name and color information you've provided, I would describe this item as a sophisticated and elegant one-piece outfit with a focus on the pants. The color scheme is primarily composed of soft, muted pinks and grays, which give the outfit a refined and mature look. The pants themselves are likely the centerpiece of the outfit, with a bold and eye-catching design that draws the eye and adds visual interest to the overall look. Overall, this outfit would be perfect for a formal occasion or a day out on the town where you want to look your best.",
+        "additional_feature": "",
+        "ori_text": "大人の華やかパンツコーデ"
+    },
+    {
+        "file_name": "A1812NC711.png",
+        "text": "Based on the item name and color information you provided, the item appears to be a one-piece dress called \"Magical Glitter Heart One-Piece\" in shades of light blue/green, cream, and gray. The dress may have a sparkly or glittery effect, given the use of the word \"magical\" in the name.",
+        "additional_feature": "",
+        "ori_text": "まじかるキラキラハートワンピ"
+    },
+    {
+        "file_name": "A1901NC205.png",
+        "text": "Based on the information you've provided, I would describe this item as a one-piece dress with the name \"Magical Darkness One-Piece\" in Japanese. The dress appears to have a color scheme consisting of three main colors in RGB format: a pale yellowish-beige (248, 242, 216), a dark golden brown (228, 200, 138), and a light grayish-brown (185, 180, 172). The dress likely has a whimsical or magical feel to it, given the name and color scheme.",
+        "additional_feature": "",
+        "ori_text": "マジカルダークネスワンピ"
+    },
+    {
+        "file_name": "A1901NC213.png",
+        "text": "Based on the name and color values you've provided, it sounds like the item is a one-piece dress called \"Darkness Check Heart One-Piece\". The dress appears to have a checkered pattern in shades of white, beige, and green, with a heart motif in the center. The overall color scheme is quite muted and earthy, with a focus on natural tones. In terms of style, the dress seems to have a somewhat dark and edgy vibe, but also incorporates elements of sweetness and femininity through the heart design.",
+        "additional_feature": "",
+        "ori_text": "ダークネスチェックハートワンピ"
+    },
+    {
+        "file_name": "A1812NC915.png",
+        "text": "Based on the item name and color information you provided, I believe this item is a maid dress from the game or anime featuring Sanrio characters. The colors suggest it has a feminine and cute aesthetic, with light pink and purple tones. The combination of these colors and the maid dress style could give the impression of a playful and mischievous character, as suggested by the name \"little devil maid.\"",
+        "additional_feature": "",
+        "ori_text": "ホテルの小悪魔メイドワンピ"
+    },
+    {
+        "file_name": "A1901NC703.png",
+        "text": "The item you described is called \"Koakuma Concierge Uniform\" in English. It is a single-piece uniform that is predominantly a shade of light pink (251, 194, 213) with accents in a darker pink (251, 120, 154) and a shade of gray (146, 136, 136). The uniform has a playful and mischievous feel, with a short skirt and a fitted top that features a black collar and cuffs. The uniform is inspired by the \"koakuma\" or \"little devil\" character archetype in Japanese culture, which is often depicted as cute and playful, but also a bit naughty. Overall, the uniform has a cute and playful look that is perfect for fans of Sanrio and Japanese fashion.",
+        "additional_feature": "",
+        "ori_text": "小悪魔コンシェルジュユニフォーム"
+    },
+    {
+        "file_name": "A1901NC706.png",
+        "text": "This item is called the \"Kingdom Sweet Biscuit Milk One-Piece,\" and it features a beautiful blend of soft colors. The main hues include a soft pinkish-purple, a warm peachy-pink, and a light golden brown, all of which come together to create a sweet and delicate look. The one-piece itself is simple and elegant, with a fitted bodice and a flowing skirt that flares out gently from the waist. It has a round neckline and short sleeves, and it falls to just above the knee. Overall, this piece exudes a charming and gentle vibe, perfect for those who want a touch of sweetness in their wardrobe.",
+        "additional_feature": "",
+        "ori_text": "王国のスイートビスケットミルクワンピ"
+    },
+    {
+        "file_name": "A1901NC917.png",
+        "text": "Based on the name and color scheme you provided, it sounds like the item is a one-piece dress called \"Kuwoiru Hoshi no Shizuku Wanpi,\" which translates to \"Star Drops Decorating the Sky One-Piece Dress\" in English. The dress features a color scheme of light blue, pale yellow, and light blue-green, with a design that likely includes stars or droplets to match the name. In deep learning, this dress could be labeled as a \"light and airy one-piece dress with a starry, droplet-inspired design and a color scheme of pale blue, yellow, and blue-green.\"",
+        "additional_feature": "",
+        "ori_text": "空を彩る星のしずくワンピ"
+    },
+    {
+        "file_name": "A1902NC203.png",
+        "text": "The item The cloud of the stars of the stars is a soft and cozy one-piece dress that features a unique color scheme consisting of warm and cool tones. The dress is predominantly a rich shade of deep red (RGB code 165, 39, 52), with accents of soft pink (RGB code 245, 211, 203) and dusty rose (RGB code 233, 145, 167). The dress has a cloud-like texture, adding to its cozy and comfortable feel. The design of the dress is simple and elegant, with a flattering cut that is sure to make the wearer feel confident and stylish. Overall, this one-piece dress is a must-have for anyone looking for a cozy yet chic addition to their wardrobe.",
+        "additional_feature": "",
+        "ori_text": "星の雲のもこもこしずくワンピ"
+    },
+    {
+        "file_name": "A1902NC211.png",
+        "text": "Based on the name and color information you provided, it sounds like the item is a dress with a gradient design reminiscent of a rainy sky. The colors include a soft pinkish-beige, a deep burgundy-red, and a muted brownish-grey. The overall effect is likely a moody and atmospheric look, evoking the feeling of a cloudy or rainy day.",
+        "additional_feature": "",
+        "ori_text": "雨降り空のグラデーションワンピ"
+    },
+    {
+        "file_name": "A1902NC220.png",
+        "text": "The Sky Blue Doll Long One Piece is a beautiful long one-piece dress that exudes a sense of charm and elegance. Its main color palette consists of a deep reddish-brown (RGB 95, 40, 48) that contrasts beautifully with its soft, muted pink (RGB 242, 206, 202) and warm, rosy pink (RGB 220, 136, 159) accents. The dress features a flattering, fitted bodice with a gently flared skirt that falls gracefully to the floor. The overall effect is one of refined femininity and grace, making this dress a must-have for any fashion-forward woman who wants to make a statement.",
+        "additional_feature": "",
+        "ori_text": "スカイブルーお人形ロングワンピース"
+    },
+    {
+        "file_name": "A1902NC226.png",
+        "text": "Sure! Here's a possible description of the item using image captioning:\n\nThis is a one-piece dress with a classic, sweet style. The dress features a rose pattern in shades of pink and beige, set against a white background. The neckline is a simple round shape, and the sleeves are short and puffy. The dress is fitted at the waist and flares out into a flowy skirt that falls just above the knee. The overall effect is romantic and feminine, with a touch of vintage charm.",
+        "additional_feature": "",
+        "ori_text": "甘かわローズクラシックワンピース"
+    },
+    {
+        "file_name": "A1902NC705.png",
+        "text": "Based on the item name and color scheme provided, the item appears to be a one-piece dress with a celestial or outer space theme. The colors used are a combination of light green, yellow, and turquoise, which could represent stars, planets, or other celestial objects. The dress is likely to be designed with a feminine silhouette, and may feature details such as a fitted bodice, flared skirt, or decorative elements like lace or beading. Overall, the Tensho Gemini's astronomical dress dress seems to be a unique and eye-catching piece that would be perfect for anyone looking to add a touch of celestial charm to their wardrobe.",
+        "additional_feature": "",
+        "ori_text": "天翔ける双子座の天体ワンピ"
+    },
+    {
+        "file_name": "A1902NC712.png",
+        "text": "Based on the information you've provided, the item \"The dress of astronomers over the starry sky\" appears to be a one-piece outfit for a character in the game. The main color scheme of the outfit consists of shades of yellow, blue, green, and brown, with the RGB values of (250, 236, 141), (76, 137, 146), and (159, 105, 76). The outfit is likely designed to give the character a scholarly or intellectual appearance, with elements of astronomy and stargazing incorporated into the overall design.",
+        "additional_feature": "",
+        "ori_text": "星空を巡る天文学者の装い"
+    },
+    {
+        "file_name": "A1902NC714.png",
+        "text": "The item \"Narikiri wolf loose hoody\" is a cozy and comfortable hoodie designed to resemble a wolf, with a relaxed and playful style. The main colors of the hoodie are soft shades of green, blue, and yellow, which create a warm and inviting atmosphere. The wolf design adds a fun and whimsical touch, making it perfect for those who love cute and quirky fashion. This item is perfect for relaxing at home or going out for a casual day, and is sure to make you feel warm and cozy all day long.",
+        "additional_feature": "",
+        "ori_text": "なりきりオオカミのゆるフーディー"
+    },
+    {
+        "file_name": "A1902NC816.png",
+        "text": "The item \"Cool sweets lovers Otome dress\" is a one-piece dress that is perfect for anyone who loves sweet and cool treats. The dress features a soft pink color that is reminiscent of strawberry ice cream, with accents of pale pink and lavender that add to its feminine charm. The dress is made of a lightweight and breathable fabric that will keep you cool and comfortable in warm weather. The design is simple yet chic, with a fitted bodice and a flared skirt that falls just above the knee. This dress is perfect for a casual day out or for a fun picnic with friends.",
+        "additional_feature": "",
+        "ori_text": "ひんやりスイーツ好きの乙女ワンピ"
+    },
+    {
+        "file_name": "A1903NC1204.png",
+        "text": "Based on the name and colors provided, I would describe this item as a sweet-looking one-piece dress with a hint of nostalgia. The dress appears to have a light, pastel color scheme, featuring shades of blue, gray, and purple. The overall impression is one of softness and sweetness, reminiscent of a delicious dessert. The name of the item, \"Amayui Purin A La Mode One Piece,\" suggests that it is inspired by a classic French dessert, with a creamy, custardy texture and a decadent topping. The dress looks like it would be comfortable to wear and could be dressed up or down depending on the occasion. Overall, it seems like a cute and stylish addition to any wardrobe.",
+        "additional_feature": "",
+        "ori_text": "あま～いプリンアラモードワンピ"
+    },
+    {
+        "file_name": "A1903NC1212.png",
+        "text": "Sure, I'll provide a description of the item in a format similar to image captioning, using deep learning techniques.\n\nThe item named \"It's like a custard pudding dress\" is a one-piece dress that resembles a creamy custard pudding. The dress is predominantly a soft lilac color (RGB 222, 217, 247), with accents of pastel pink (RGB 244, 172, 225) and light grey (RGB 153, 155, 168) throughout. The dress has a fitted bodice with a sweetheart neckline, and a full, flared skirt that falls just above the knee. The fabric has a soft, silky texture and a subtle sheen, adding to the dress's overall sweetness and delicacy.",
+        "additional_feature": "",
+        "ori_text": "まるでカスタードなプリンワンピース"
+    },
+    {
+        "file_name": "A1903NC1217.png",
+        "text": "Based on the item name and color information you provided, I believe that the item you're referring to is a summer staple watermelon-themed dress. The colors of the dress are a combination of light blue, pastel blue, and light beige. The dress features a playful watermelon design, with the top portion of the dress resembling a watermelon rind and the bottom portion featuring a watermelon slice pattern. The dress is a one-piece item, and would be perfect for a summer day out or a casual gathering with friends.",
+        "additional_feature": "",
+        "ori_text": "夏の定番☆スイカワンピ"
+    },
+    {
+        "file_name": "A1903NC1815.png",
+        "text": "Based on the name and color scheme you provided, the item Magical stardust candy dress (Magical Stardust Candy One-Piece) seems to be a whimsical and playful dress that is inspired by candy and stardust. The dress likely has a pastel color scheme, with shades of pink, purple, and gray. The design may feature sparkles or glitter to give it a magical feel, and the candy theme may be reflected in the shape or details of the dress. Overall, the dress is likely to be a fun and lighthearted addition to any wardrobe.",
+        "additional_feature": "",
+        "ori_text": "魔法のかかった星屑キャンディワンピ"
+    },
+    {
+        "file_name": "A1904NC1107.png",
+        "text": "Based on the name and color palette you've provided, the item is likely a perfume bottle from the \"Secret Mermaid\" line of products. The bottle design is likely inspired by the sea and mermaids, with colors such as pale beige, light pink, and peach, evoking a sense of softness and femininity. The bottle may feature details such as seashells, pearls, or other ocean-inspired motifs. The perfume itself is likely to have a light, fresh scent reminiscent of the ocean or sea spray.",
+        "additional_feature": "",
+        "ori_text": "秘密のマーメイドのパフュームボトル"
+    },
+    {
+        "file_name": "A1904NC1117.png",
+        "text": "Based on the information you've provided, the item you're describing is a one-piece dress called \"Lost Antique Frill One-Piece\" in Japanese. The dress features frilly details and comes in a color scheme of pale pink (RGB: 246, 220, 205), light orange (RGB: 244, 163, 132), and gray (RGB: 165, 168, 166). In terms of deep learning, the dress could be described as a vintage-inspired frilly dress with a soft color palette.",
+        "additional_feature": "",
+        "ori_text": "ロストアンティークフリルワンピ"
+    },
+    {
+        "file_name": "A1904NC1506.png",
+        "text": "Based on the name of the item you provided, \"Lost Park navigator clothes,\" which roughly translates to \"Lost Park Navigator's Clothes,\" and the RGB color values you provided, I would describe this item as a one-piece outfit with a predominantly beige and cream color scheme with accents of dark brown. The outfit is likely designed to resemble navigational gear, with details such as pockets, straps, and sturdy-looking fabric. The overall look is functional and practical, suggesting that the wearer is prepared for adventure and exploration.",
+        "additional_feature": "",
+        "ori_text": "ロストパークのナビゲーターの服"
+    },
+    {
+        "file_name": "A1904NC1514.png",
+        "text": "Based on the name and color information you've provided, it sounds like the item in question is a cream-colored frilly one-piece dress with white rose accents. The primary colors of the dress are a muted greenish-gray (RGB 147, 172, 155), a pale off-white (RGB 243, 239, 229), and a warm golden-brown (RGB 218, 163, 86). The dress likely has a feminine and romantic aesthetic, with frills and floral details that add a delicate and charming touch.",
+        "additional_feature": "",
+        "ori_text": "ホワイトローズのクリームフリルワンピ"
+    },
+    {
+        "file_name": "A1904NC1516.png",
+        "text": "The item, Yumikawa Frill Sailor dress, is a stylish one-piece dress that features a charming sailor collar and frilly accents. The dress is predominantly colored in a warm, earthy tone of dark beige (146, 122, 100), with accents of light cream (241, 237, 230) and light brown (233, 205, 154). The overall effect is both dreamy and enchanting, and the dress is sure to make anyone who wears it feel like a whimsical fairy tale character.",
+        "additional_feature": "",
+        "ori_text": "ゆめかわフリルセーラーワンピ"
+    },
+    {
+        "file_name": "A1904NC2016.png",
+        "text": "Based on the item name and color information you provided, the item appears to be a one-piece dress featuring a cute design with a white cat, and is designed to have a dreamy, cute aesthetic. The main colors of the dress are a light pinkish-red, a brighter red, and a lighter, more pastel red. Overall, this dress seems to be a playful and whimsical piece of clothing that would be perfect for fans of kawaii fashion or anime-style clothing.",
+        "additional_feature": "",
+        "ori_text": "白猫とずーっと一緒♪ゆめかわワンピ"
+    },
+    {
+        "file_name": "A1904NC2211.png",
+        "text": "Based on the name and the color scheme you provided, the item appears to be a casual party dress that might be suitable for a cruise or other nautical-themed event. It features a combination of deep purple, light grey, and mauve colors that complement each other nicely. The dress looks comfortable and easy to wear, with a loose-fitting silhouette that would allow for easy movement and dancing. The overall style is casual yet chic, making it a versatile choice for a variety of occasions.",
+        "additional_feature": "",
+        "ori_text": "船上のカジュアルパーティーワンピ"
+    },
+    {
+        "file_name": "A1905NC1106.png",
+        "text": "Based on the name and color information provided, I believe the item you're describing is a \"Narikiri Party Cream Cupcake.\" The cupcake appears to be a one-piece item, likely resembling a miniature cake with frosting on top. The main colors of the cupcake are a light pinkish-beige, a pale yellow, and a dark gray. The cupcake may be decorated with additional details, such as sprinkles or decorative frosting, depending on the specific design. Overall, the cupcake looks like a sweet and festive treat that would be perfect for a party or special occasion.",
+        "additional_feature": "",
+        "ori_text": "なりきりパーティークリームカップケーキ"
+    },
+    {
+        "file_name": "A1905NC1111.png",
+        "text": "Sure, here's a possible description of the item in the tone of captioning labeling:\n\n\"This colorful one-piece item is called Surprise ♪ Big Party pizza and features a fun pizza design that's perfect for parties. The main colors of the item are a vibrant combination of shades of pink and beige, with a touch of pale orange. The design features a large pizza slice with a cheery smile, surrounded by smaller slices and toppings like mushrooms, olives, and peppers. The playful design and bright colors make this item a fun addition to any wardrobe, and a great way to add a touch of whimsy to any outfit.\"",
+        "additional_feature": "",
+        "ori_text": "サプライズ♪ビッグパーティーピザ"
+    },
+    {
+        "file_name": "A1905NC1112.png",
+        "text": "Based on the item name and color description, the item sounds like a striped one-piece dress that is likely to be worn at a cruise party. The color scheme features shades of blue, beige, and teal, which give it a nautical feel. The dress is likely to have a form-fitting silhouette with a horizontal stripe pattern. It may also have some decorative details such as buttons or a belt. Overall, the dress would be a stylish and comfortable choice for a summer cruise party. In deep learning, this item could be labeled as \"Nautical Striped One-Piece Dress for Cruise Party\".",
+        "additional_feature": "",
+        "ori_text": "クルーズパーティーのストライプワンピ"
+    },
+    {
+        "file_name": "A1905NC1119.png",
+        "text": "The item \"Goldfish Fireworks Kusama Wanpi\" appears to be a one-piece dress with a unique and eye-catching design. The dress features a combination of soft, warm colors, including a creamy beige (231, 225, 211), a sunny yellow (233, 206, 133), and a neutral gray (172, 164, 156), which contrast beautifully with each other. The pattern on the dress resembles a swirling, colorful burst of fireworks, with the image of a goldfish at the center. Overall, the dress has a whimsical and playful feel to it, and would make a great addition to any fashion-forward individual's wardrobe.",
+        "additional_feature": "",
+        "ori_text": "金魚花火のくす玉ワンピ"
+    },
+    {
+        "file_name": "A1905NC1609.png",
+        "text": "Based on the name and colors you've given me, it seems like the item is a one-piece dress designed for women who have a sweet tooth. The name \"Sweet party girl's Mochiwa Marshmallow Wanpi\" roughly translates to \"Fluffy Marshmallow Dress for Women with a Sweet Tooth\". The main colors of the dress are a pale lavender (RGB value of 238, 228, 241), a muted gray-lavender (RGB value of 164, 156, 173), and a light gray (RGB value of 180, 180, 180). The dress likely has a soft, fluffy texture that resembles a marshmallow, and the color scheme is sweet and feminine.",
+        "additional_feature": "",
+        "ori_text": "甘党女子のもちふわマシュマロワンピ"
+    },
+    {
+        "file_name": "A1905NC1616.png",
+        "text": "The item Marshmallow blue sailor setup is a one-piece sailor-style outfit with a light blue, marshmallow-like hue. The outfit features a button-up top with a sailor collar and white trim, paired with a matching high-waisted skirt that flares out slightly at the bottom. The main colors in this outfit are a soft, pastel pink, a dusty lavender, and a cool, silvery gray. The overall effect is sweet and feminine, with a touch of vintage charm.",
+        "additional_feature": "",
+        "ori_text": "マシュマロブルーのセーラーセットアップ"
+    },
+    {
+        "file_name": "A1905NC2400.png",
+        "text": "The item \"Everyone's longing game champion dress\" is a single, one-piece dress that is sure to turn heads. The dress features a unique design that blends soft shades of pink, purple, and gray in a stunning gradient effect. The top portion of the dress is a light pink shade, while the bottom portion fades into a darker purple hue. The dress is made from high-quality materials that are both comfortable and durable, ensuring that it can be worn again and again. Perfect for any occasion, this dress is a must-have for fashion-forward individuals who want to make a statement.",
+        "additional_feature": "",
+        "ori_text": "みんなの憧れゲームチャンピオンワンピ"
+    },
+    {
+        "file_name": "A1905NC2313.png",
+        "text": "The Let's PLAY♪ゲーミングワンピ is a stylish one-piece outfit that is perfect for gamers and fashion lovers alike. The main colors of the outfit are a soft, muted beige (rgb 231, 224, 216), a deep, rich navy blue (rgb 85, 86, 118), and a warm, earthy brown (rgb 148, 140, 124). The outfit features a fun and playful gaming-themed design, with colorful icons and graphics scattered throughout. The Let's PLAY♪ゲーミングワンピ is a unique and eye-catching piece that is sure to turn heads and make a statement.",
+        "additional_feature": "",
+        "ori_text": "Let’s PLAY♪ゲーミングワンピ"
+    },
+    {
+        "file_name": "A1906NC1105.png",
+        "text": "Based on the name and color information you've provided, it sounds like the item is a gaming set-up for a fighting game enthusiast. The name \"Exhilarating combo fighting gamer setup\" roughly translates to \"Refreshing Combo Fighting Game Gamer Set-up\" in English. The colors associated with the item are light blue, sky blue, and light pink. The set-up is likely to include a console or computer, a monitor or TV, a controller, and possibly other accessories such as a headset or gaming chair. The colors suggest a fun, energetic, and playful vibe, perfect for someone who loves to play and master fighting games.",
+        "additional_feature": "",
+        "ori_text": "爽快コンボの格闘ゲーマーセットアップ"
+    },
+    {
+        "file_name": "A1906NC1110.png",
+        "text": "Based on the name and color description you provided, the item appears to be a retro-style one-piece dress. The name of the dress, which roughly translates to \"Princess Holding the Moon Retro Dress,\" suggests a whimsical and romantic design. The color palette features soft shades of blue-green and gray, which create a dreamy and ethereal atmosphere. The dress likely has a fitted bodice and flared skirt, with intricate details such as lace or embroidery to add to the retro aesthetic. Overall, this dress seems like a lovely and unique addition to any wardrobe!",
+        "additional_feature": "",
+        "ori_text": "月を抱っこした姫のレトロワンピ"
+    },
+    {
+        "file_name": "A1906NC1117.png",
+        "text": "Based on the information you provided, the item is a one-piece dress called \"Tsukiyoru wo Tanoshimu Juugoya Musume One-Piece\" (which roughly translates to \"Fifteen Night Daughter One-Piece Dress for Enjoying the Moonlit Night\"). The dress features a color scheme of light blue (RGB: 230, 242, 245), brown (RGB: 146, 113, 93), and gray (RGB: 161, 148, 148). In terms of deep learning captioning labeling, this item could be described as a feminine and elegant dress with a color scheme reminiscent of a moonlit night.",
+        "additional_feature": "",
+        "ori_text": "月夜を楽しむ十五夜娘ワンピ"
+    },
+    {
+        "file_name": "A1906NC1124.png",
+        "text": "Based on the information you've provided, the item is a one-piece dress called the \"Idol Crown Ballerina Heart One-Piece\". The dress features a heart-shaped pattern with the colors of light beige, dark beige, and light grayish-green. The dress has a ballerina-style design and is likely worn by characters in the game during performances or events.",
+        "additional_feature": "",
+        "ori_text": "アイドルクラウンの玉乗りハートワンピ"
+    },
+    {
+        "file_name": "A1906NC2003.png",
+        "text": "The Blazer dress of memories of memories is a stylish, one-piece blazer dress that will make you feel confident and put-together. The dress features a gorgeous color palette of warm, neutral tones, including a soft cream color (250, 233, 214), a rich brown hue (208, 142, 100), and a muted, rosy beige shade (188, 148, 132). The blazer-style top of the dress gives it a professional, tailored look, while the flowing skirt adds a touch of feminine elegance. With its flattering silhouette and versatile color scheme, this dress is perfect for any occasion - whether you're heading to the office or going out for a night on the town.",
+        "additional_feature": "",
+        "ori_text": "思い出配達員のブレザーワンピ"
+    },
+    {
+        "file_name": "A1906NC2117.png",
+        "text": "Based on the name and color information you provided, the item is likely a one-piece dress with a design inspired by autumn leaves. The colors appear to be a mix of light blue, purple, and green, which may be used to depict the changing colors of leaves in the fall. The dress is likely designed to be cheerful and lively, with a sense of excitement and joy that comes with the crisp, clear autumn weather.",
+        "additional_feature": "",
+        "ori_text": "紅葉に心が弾む秋晴れワンピ"
+    },
+    {
+        "file_name": "A1906NC2405.png",
+        "text": "Based on the item name and color information provided, it sounds like the item is a cozy fall-colored one-piece outfit for colder weather. The main colors are a soft gray, a deep magenta, and a muted grayish-purple. The outfit is likely designed to provide warmth and comfort during chilly autumn days, while also being stylish and on-trend. The name of the item suggests that it is meant to be worn during the cooler months, when temperatures start to drop. Overall, it seems like a cute and practical outfit that would be perfect for autumn weather.",
+        "additional_feature": "",
+        "ori_text": "冷え込む季節のほっこり秋色セットアップ"
+    },
+    {
+        "file_name": "A1907NC1205.png",
+        "text": "Based on the name and color information provided, I would assume that the item is a maid-style one-piece dress with a playful, whimsical design. The name \"Okashinabake Bake Maid dress\" roughly translates to \"Strange Ghostly Maid Dress,\" which suggests that the dress may have a spooky or Halloween-themed design. The colors listed - a light pink, a soft pinkish-brown, and a medium gray - could be used to create a pastel, vintage-inspired color scheme for the dress. Overall, I would imagine that this dress is a cute and quirky addition to any Sanrio fan's wardrobe.",
+        "additional_feature": "",
+        "ori_text": "おかしなばけばけメイドワンピ"
+    },
+    {
+        "file_name": "A1907NC1210.png",
+        "text": "The item Ghost large line with Pompompurin consists of a single-piece dress that features a cute and playful design. The main colors of the dress are a soft blue-green (rgb values of 222, 243, 246), a muted gray (rgb values of 145, 156, 158), and a light pink (rgb values of 196, 164, 180). The dress is adorned with fun and whimsical ghost designs, which give it a playful and festive feel. The overall look of the dress is girly and sweet, making it a perfect addition to any Sanrio fan's wardrobe.",
+        "additional_feature": "",
+        "ori_text": "ポムポムプリンと一緒におばけ大行進ワンピ"
+    },
+    {
+        "file_name": "A1907NC1214.png",
+        "text": "The item \"Narikiri Kyonshikkki's clothes\" is a one-piece outfit that is inspired by the appearance of a Kyonshi, a type of Chinese vampire. The outfit is predominantly colored in shades of light green (RGB values of 239, 249, 244), gray (RGB values of 156, 164, 163), and light silver (RGB values of 180, 180, 180). The outfit features a high collar with a red ribbon tie, and the sleeves are wide and flared. The overall design is both stylish and playful, and would be a great addition to any Sanrio character's wardrobe.",
+        "additional_feature": "",
+        "ori_text": "なりきりキョンシークッキーの服"
+    },
+    {
+        "file_name": "A1907NC1807.png",
+        "text": "The item \"Narikiri Pumpkin cookie ghost clothes\" is a one-piece dress that features a playful and spooky design, perfect for Halloween or any other fun occasion. The dress is primarily composed of a light pink color (rgb: 248, 189, 233), with accents of a brighter pink (rgb: 247, 103, 177) and a muted purple (rgb: 188, 136, 168). The design features a cute pumpkin cookie character with a ghostly twist, complete with a playful expression and playful details such as a bow tie and ruffled skirt. This dress is sure to add a fun and whimsical touch to any outfit, and is perfect for anyone looking to embrace their playful side.",
+        "additional_feature": "",
+        "ori_text": "なりきりパンプキンクッキーおばけの服"
+    },
+    {
+        "file_name": "A1907NC1817.png",
+        "text": "The \"Reminiscence ghost princess dress\" is a stunning one-piece dress that features a beautiful color palette of deep purple, lavender, and light gray. Made with high-quality fabrics, this dress is both comfortable and stylish, making it the perfect choice for any formal occasion. The dress is adorned with intricate details, including delicate lace and elegant ruffles, giving it a sophisticated and feminine look. The dress also features a full skirt that flows beautifully with every step, creating a captivating and ethereal effect. Whether you're attending a wedding, prom, or any other special event, the \"Reminiscence ghost princess dress\" is sure to make you feel like royalty.",
+        "additional_feature": "",
+        "ori_text": "追憶のゴーストプリンセスドレス"
+    },
+    {
+        "file_name": "A1907NC2118.png",
+        "text": "The item \"Red ribbon dot dress\" is a one-piece dress with a bright and playful design. The main colors of the dress are a soft pinkish-beige, a deep blue, and a light grey. The dress features a white polka-dot pattern throughout, and is accented with a bold red ribbon around the waist. The dress is perfect for a fun and casual day out, and is sure to turn heads with its eye-catching design.",
+        "additional_feature": "",
+        "ori_text": "赤いリボンのドットワンピ"
+    },
+    {
+        "file_name": "A1908NC1210.png",
+        "text": "Based on the item name and color information provided, I can infer that this item is a one-piece dress featuring a print design of My Melody, a popular Sanrio character. The dress appears to have a warm color scheme, with shades of gold, brown, and cream. The dress likely has a relaxed, casual fit and may feature a scoop neckline and short sleeves. Overall, this dress seems like a cute and comfortable option for fans of My Melody who want to show off their love for the character.",
+        "additional_feature": "",
+        "ori_text": "マイメロディのプリントワンピ"
+    },
+    {
+        "file_name": "A1908NC1304.png",
+        "text": "Based on the item name and color information you provided, the item appears to be a pink one-piece dress set inspired by the popular Sanrio character, My Melody. The dress is likely to feature a cute and girly design, perhaps with a bow or other decorative elements. The colors mentioned suggest a color scheme of pink, purple, and blue, which could indicate that the dress has a pastel or candy-colored theme. Overall, the Marland's pink dresset is likely to be a cute and stylish dress set that would appeal to fans of My Melody and the Sanrio brand.",
+        "additional_feature": "",
+        "ori_text": "マリーランドのピンクなワンピセット"
+    },
+    {
+        "file_name": "A1908NC1314.png",
+        "text": "Based on the item name and color description you provided, I believe this item is a \"Clover Field Cami Dress\" in shades of purple, light blue, and dark blue. The dress is likely a one-piece item that features a camisole-style top and a flowy skirt. The print on the dress is probably a pattern of clovers or other greenery, given the name \"Clover Field.\" The shades of purple, light blue, and dark blue in the dress suggest a dreamy and whimsical vibe, and the cami-style top would make it a great dress for warmer weather.",
+        "additional_feature": "",
+        "ori_text": "クローバー畑のキャミワンピコーデ"
+    },
+    {
+        "file_name": "A1908NC1804.png",
+        "text": "Based on the item name and color information you've provided, I would guess that Spring retro dot card set is a retro-style cardigan set with a polka dot pattern. The main colors of the cardigan set are a light pinkish-beige, a bright red, and a muted orange. The retro style and polka dot pattern suggest a playful, vintage-inspired look that would be perfect for springtime.",
+        "additional_feature": "",
+        "ori_text": "スプリングレトロなドットカーデセット"
+    },
+    {
+        "file_name": "A1908NC2005.png",
+        "text": "Based on the name and color information you've provided, the item appears to be a one-piece dress with a star pattern on a tulle fabric. The dress has a cami-style top and a flowing skirt. The dominant colors are a light blueish-purple (150, 195, 251), a pale blueish-white (233, 242, 251), and a light blue (199, 229, 252), all of which give the dress a dreamy and whimsical feel. This description could be used as a caption or label for an image of the dress in a deep learning application.",
+        "additional_feature": "",
+        "ori_text": "星柄チュールのキャミワンピ"
+    },
+    {
+        "file_name": "A1908NC2011.png",
+        "text": "Based on the information you've given me, I can provide the following description for the item:\n\nThe Twin star frill dress is a one-piece dress that features a combination of three main colors: a soft pinkish-purple (rgb(247, 217, 238)), a vibrant aqua blue-green (rgb(110, 217, 203)), and a muted mauve-gray (rgb(172, 142, 158)). The dress has a frilly design, with ruffled layers at the hem and on the sleeves. The overall style is cute and playful, with a touch of sophistication. The dress would be perfect for a variety of occasions, from casual outings to more formal events, and would appeal to anyone who loves the whimsical world of Sanrio characters.",
+        "additional_feature": "",
+        "ori_text": "双子星のフリルワンピ"
+    },
+    {
+        "file_name": "A1908NC2013.png",
+        "text": "The item Weather motif apron One Piset is a unique one-piece garment that features a beautiful feather motif design. The main colors are a warm, earthy tone of light brown (245, 216, 200), a cool, refreshing shade of light blue (152, 199, 251), and a soft, muted pink hue (212, 156, 196). The feather motif design adds a touch of elegance and sophistication to the overall look of the garment, while the one-piece design makes it easy and comfortable to wear. This item is perfect for anyone who wants to look stylish and practical at the same time, whether you're cooking up a storm in the kitchen or just lounging around the house.",
+        "additional_feature": "",
+        "ori_text": "羽モチーフのエプロンワンピセット"
+    },
+    {
+        "file_name": "A1908NC2020.png",
+        "text": "Based on the item name and color information provided, I believe the item is a Cinnamon-themed printed one-piece dress, with shades of light pink, bright pink, and light brown. The dress likely features a cute and playful print of the character Cinnamon from the Sanrio universe, and is designed to be worn as a single piece. In terms of the style and design of the dress, I would expect it to be cute, whimsical, and fun, with a focus on comfort and ease of wear.",
+        "additional_feature": "",
+        "ori_text": "シナモンと一緒のプリントワンピ"
+    },
+    {
+        "file_name": "A1908NC2216.png",
+        "text": "Based on the name and color information you provided, it sounds like the item is a country-style denim dress. The dress appears to be made from lightweight denim material, which gives it a casual, relaxed feel. The dress is likely a one-piece design, meaning that it does not have separate top and bottom pieces. The main colors of the dress are a light grayish-purple, a pale off-white, and a muted greenish-gray. These colors give the dress a subdued, natural look that would be fitting for a country or rural setting. Overall, this dress seems like a comfortable and versatile piece that could be worn for a variety of occasions.",
+        "additional_feature": "",
+        "ori_text": "軽やかデニムのカントリーワンピ"
+    },
+    {
+        "file_name": "A1908NC2805.png",
+        "text": "This item is a one-piece sweatshirt dress that features a fun and playful pop art-inspired heart design. The heart is rendered in shades of pink and purple, with a gradient effect that gives it a dynamic and eye-catching look. The overall color scheme of the dress is bright and cheerful, with a mix of pastel pink, lavender, and sky blue tones. The dress is made of a soft and cozy material that is perfect for staying comfortable and stylish all day long. Whether you're lounging at home or running errands around town, this sweatshirt dress is sure to make a bold and playful statement.",
+        "additional_feature": "",
+        "ori_text": "ポップなハートのスウェットワンピ"
+    },
+    {
+        "file_name": "A1908NC2900.png",
+        "text": "Based on the name and the RGB color values you provided, it sounds like the item is a black one-piece dress with shades of blue and purple in the fabric. The dress is likely a simple, classic style, with a basic yet elegant design. It could be worn for a variety of occasions, from a night out to a more formal event, and would be easy to accessorize with jewelry, shoes, and a handbag. In terms of the deep learning captioning labeling, the item could be described as a \"sleek and sophisticated black one-piece dress with hints of blue and purple in the fabric - a timeless classic for any occasion.\"",
+        "additional_feature": "",
+        "ori_text": "おりこうベーシックなブラックワンピ"
+    },
+    {
+        "file_name": "A1909NC1204.png",
+        "text": "The item is a single-piece dress called \"Spring Color Maiden Rose Pattern Dress\". The dress has a rose pattern in shades of purple, pink, and grey. The colors are soft and muted, with a slightly vintage feel. The dress has a feminine, romantic vibe, with a fitted bodice and full skirt that falls just below the knee. It would be perfect for a springtime garden party or a casual afternoon outing.",
+        "additional_feature": "",
+        "ori_text": "春色乙女のローズ柄ワンピ"
+    },
+    {
+        "file_name": "A1909NC1211.png",
+        "text": "Based on the name and color scheme you provided, it sounds like the item you're describing is a navy blue off-shoulder jumpsuit with shades of pink and gray. The jumpsuit appears to have a relaxed fit and is made of a lightweight, breathable fabric. The off-shoulder neckline adds a touch of femininity to the piece, while the navy blue color gives it a classic and versatile look. The shades of pink and gray are likely used as accents or detailing on the jumpsuit. Overall, this sounds like a stylish and comfortable piece that would be perfect for a wide range of occasions.",
+        "additional_feature": "",
+        "ori_text": "ネイビーオフショルオールインワン"
+    },
+    {
+        "file_name": "A1909NC1213.png",
+        "text": "Based on the name and color information you've provided, it sounds like the item is a cute, star-themed set of clothes. The colors seem to be primarily shades of pink and purple, with some lighter and darker variations. The only one-piece aspect suggests that it is a dress or jumpsuit, and the \"set up\" part of the name implies that there may be coordinating accessories or pieces that go with it. Overall, it sounds like a fun and playful outfit that would be perfect for fans of Sanrio characters or cute, whimsical fashion.",
+        "additional_feature": "",
+        "ori_text": "お星様のキュートセットアップ"
+    },
+    {
+        "file_name": "A1909NC2003.png",
+        "text": "Based on the name of the item, \"Large ribbon large dot dress\", which translates to \"Big Ribbon Big Dot One-Piece\", and the main colors provided in RGB format, which are light blue, teal, and pink, the item is likely a dress or one-piece outfit that features a big ribbon and big dot pattern. The light blue color is likely the dominant color of the dress, with accents of teal and pink in the ribbon and dot pattern. It may be a cute and playful outfit, perfect for casual or fun occasions.",
+        "additional_feature": "",
+        "ori_text": "大きなリボンの大きなドットワンピ"
+    }
+]
