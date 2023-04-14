@@ -269,7 +269,7 @@ def parse_args():
     parser.add_argument(
         "--checkpointing_steps",
         type=int,
-        default=500,
+        default=1000,
         help=(
             "Save a checkpoint of the training state every X updates. These checkpoints are only suitable for resuming"
             " training using `--resume_from_checkpoint`."
@@ -353,6 +353,7 @@ def main():
         logging_dir=logging_dir,
         project_config=accelerator_project_config,
     )
+
 
     # Make one log on every process with the configuration for debugging.
     logging.basicConfig(
@@ -689,6 +690,8 @@ def main():
     progress_bar = tqdm(range(global_step, args.max_train_steps), disable=not accelerator.is_local_main_process)
     progress_bar.set_description("Steps")
 
+    if args.checkpointing_steps == -1:
+        args.checkpointing_steps = args.max_train_steps - 1
     for epoch in range(first_epoch, args.num_train_epochs):
         unet.train()
         train_loss = 0.0
